@@ -3,7 +3,7 @@
 
 ### - I'm a ambitious person with a passion for technology. Currently taking BSIT  at Quezon City University of the Philippines.
 
-<img hight="300" width="300" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/13626.gif">
+<img hight="300" width="300" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/aboutme.gif">
 
 ### - Learning :
 -  Front-End Development
@@ -25,7 +25,7 @@
  </br>
 
 
-<img hight="220" width="350" align="right" alt="GIF" src="https://github.com/benipayoj/Introduction/blob/main/assets/35467.gif">
+<img hight="220" width="350" align="right" alt="GIF" src="https://github.com/benipayoj/Introduction/blob/main/assets/contactme.gif">
 
 
 Feel free to ask me any question, just send me a message 😉.
