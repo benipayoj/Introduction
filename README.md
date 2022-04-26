@@ -34,7 +34,7 @@ Feel free to ask me any question, just send me a message 😉.
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://ph.linkedin.com/in/joseph-benipayo-8b339b1a6">
-  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
