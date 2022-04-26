@@ -3,7 +3,7 @@
 
 ### - I'm a ambitious person with a passion for Technology. Currently taking BSIT  at Quezon City University of the Philippines.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/13626.gif">
+<img hight="200" width="200" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/13626.gif">
 
 ### - Learning :
 -  Front-End Development
@@ -25,7 +25,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/benipayoj/Introduction/blob/main/assets/35467.gif">
+<img hight="220" width="350" align="right" alt="GIF" src="https://github.com/benipayoj/Introduction/blob/main/assets/35467.gif">
 
 
 Feel free to ask me any question, just send me a message 😉.
@@ -34,7 +34,7 @@ Feel free to ask me any question, just send me a message 😉.
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://ph.linkedin.com/in/joseph-benipayo-8b339b1a6">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
