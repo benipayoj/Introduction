@@ -1,9 +1,9 @@
 
 # About ME 💬 :
 
-### - I'm a ambitious person with a passion for Technology. Currently taking BSIT  at Quezon City University of the Philippines.
+### - I'm a ambitious person with a passion for technology. Currently taking BSIT  at Quezon City University of the Philippines.
 
-<img hight="200" width="200" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/13626.gif">
+<img hight="300" width="300" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/13626.gif">
 
 ### - Learning :
 -  Front-End Development
