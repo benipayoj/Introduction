@@ -1,7 +1,7 @@
 
 # About ME 💬 :
 
-### - I'm an ambitious person with a passion for technology. Currently taking Bachelor of Science in Information Technology  at Quezon City University of the Philippines.
+### - I'm an ambitious person with a passion for technology. Currently studying Bachelor of Science in Information Technology  at Quezon City University of the Philippines.
 
 <img hight="350" width="350" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/aboutme.gif">
 
