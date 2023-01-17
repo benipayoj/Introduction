@@ -7,10 +7,12 @@
 
 ### - Learning :
 -  Front-End Development
+-  Back-End Development
 -  Data Structures & Algorithms
 
 ### - Hobbies : 
 -  Playing Valorant
+-  Playing Mobile Legends
 -  Watching Anime
 -  Cycling
 
