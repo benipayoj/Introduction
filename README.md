@@ -5,14 +5,13 @@
 
 <img hight="350" width="350" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/aboutme.gif">
 
-### - Learning :
--  Front-End Development
--  Back-End Development
+### - Currently Learning :
+-  Python 
 -  Data Structures & Algorithms
 
 ### - Hobbies : 
 -  Playing Valorant
--  Playing Mobile Legends
+-  Watching K Drama
 -  Watching Anime
 -  Cycling
 
