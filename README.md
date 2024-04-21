@@ -2,10 +2,12 @@
 <h3 align="center">A passionate software engineer from Philippines</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicetrybeni&show_icons=true&locale=en&layout=compact" alt="nicetrybeni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetrybeni&show_icons=true&locale=en" alt="nicetrybeni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicetrybeni&" alt="nicetrybeni" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicetrybeni&label=Profile%20views&color=0e75b6&style=flat" alt="nicetrybeni" /> </p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=PaoloGuimalan&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
+   <img src="https://streak-stats.demolab.com?user=PaoloGuimalan&theme=radical" style="width: 400px; max-width: 100%" />
+   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGuimalan&layout=compact&show_icons=true&theme=radical" />
+   <img width="350px" height="160px" src="https://github-profile-trophy.vercel.app/?username=PaoloGuimalan&theme=radical&row=2&column=4&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy">
+</div>
 
 - 📫 How to reach me **joseph.benipayo.dev@gmail.com**
 
