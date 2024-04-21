@@ -1,14 +1,14 @@
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=PaoloGuimalan&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
-   <img src="https://streak-stats.demolab.com?user=PaoloGuimalan&theme=radical" style="width: 400px; max-width: 100%" />
-   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGuimalan&layout=compact&show_icons=true&theme=radical" />
-   <img width="350px" height="160px" src="https://github-profile-trophy.vercel.app/?username=PaoloGuimalan&theme=radical&row=2&column=4&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-readme-stats.vercel.app/api?username=nicetrybeni&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
+   <img src="https://streak-stats.demolab.com?user=nicetrybeni&theme=radical" style="width: 400px; max-width: 100%" />
+   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicetrybeni&layout=compact&show_icons=true&theme=radical" />
+   <img width="350px" height="160px" src="https://github-profile-trophy.vercel.app/?username=nicetrybeni&theme=radical&row=2&column=4&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy">
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicetrybeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicetrybeni" height="30" width="40" /></a>
 <a href="www.youtube.com/@BENI-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicetrybeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicetrybeni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
