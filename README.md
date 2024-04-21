@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicetrybeni&label=Profile%20views&color=0e75b6&style=flat" alt="nicetrybeni" /> </p>
 
 ### - I'm an ambitious person with a passion for technology. Currently studying Bachelor of Science in Information Technology  at Quezon City University of the Philippines.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicetrybeni" alt="nicetrybeni" /></a> </p>
 
 <img hight="350" width="350" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/aboutme.gif">
 
