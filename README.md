@@ -1,18 +1,15 @@
 # About ME 💬 :
 
-### - I'm an ambitious person with a passion for technology. Currently studying Bachelor of Science in Information Technology  at Quezon City University of the Philippines.
+### - Developer from Philippines
 
 <img hight="350" width="350" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/aboutme.gif">
 
 ### - Currently Learning :
--  Python 
--  Data Structures & Algorithms
+-  React
+-  Python (DSA)
 
 ### - Hobbies : 
 -  Playing Valorant
--  Watching K Drama
--  Watching Anime
--  Cycling
 
 </br>
 </br>
@@ -26,10 +23,10 @@
 
 Feel free to ask me any question, just send me a message 😉.
 
-<a href="mailto:jbeni.tech@gmail.com">
+<a href="mailto:joseph.benipayo.dev@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/gmail.png" />
 </a>
-<a href="https://ph.linkedin.com/in/joseph-benipayo-8b339b1a6">
+<a href="https://ph.linkedin.com/in/nicetrybeni">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
