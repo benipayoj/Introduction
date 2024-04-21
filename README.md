@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beni</h1>
 <h3 align="center">A passionate software engineer from Philippines</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicetrybeni&show_icons=true&locale=en&layout=compact" alt="nicetrybeni" /></p>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=PaoloGuimalan&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
