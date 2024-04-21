@@ -1,5 +1,4 @@
 # About ME 💬 :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicetrybeni&label=Profile%20views&color=0e75b6&style=flat" alt="nicetrybeni" /> </p>
 
 ### - I'm an ambitious person with a passion for technology. Currently studying Bachelor of Science in Information Technology  at Quezon City University of the Philippines.
 
