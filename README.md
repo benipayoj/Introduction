@@ -1,17 +1,40 @@
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nicetrybeni&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
-   <img src="https://streak-stats.demolab.com?user=nicetrybeni&theme=radical" style="width: 400px; max-width: 100%" />
-   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicetrybeni&layout=compact&show_icons=true&theme=radical" />
-   <img width="350px" height="160px" src="https://github-profile-trophy.vercel.app/?username=nicetrybeni&theme=radical&row=2&column=4&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy">
-</div>
+# About ME 💬 :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicetrybeni&label=Profile%20views&color=0e75b6&style=flat" alt="nicetrybeni" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.youtube.com/@BENI-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nicetrybeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicetrybeni" height="30" width="40" /></a>
-</p>
+### - I'm an ambitious person with a passion for technology. Currently studying Bachelor of Science in Information Technology  at Quezon City University of the Philippines.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicetrybeni" alt="nicetrybeni" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img hight="350" width="350" alt="GIF" align="right" src="https://github.com/benipayoj/Introduction/blob/main/assets/aboutme.gif">
 
-- 📫 How to reach me **joseph.benipayo.dev@gmail.com**
+### - Currently Learning :
+-  Python 
+-  Data Structures & Algorithms
+
+### - Hobbies : 
+-  Playing Valorant
+-  Watching K Drama
+-  Watching Anime
+-  Cycling
+
+</br>
+</br>
+
+# Contact Me :
+
+<p>
+
+
+<img hight="220" width="350" align="right" alt="GIF" src="https://github.com/benipayoj/Introduction/blob/main/assets/contactme.gif">
+
+Feel free to ask me any question, just send me a message 😉.
+
+<a href="mailto:jbeni.tech@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/gmail.png" />
+</a>
+<a href="https://ph.linkedin.com/in/joseph-benipayo-8b339b1a6">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/benipayoj/Introduction/blob/main/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+ </p>
